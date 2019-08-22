@@ -12,7 +12,9 @@ run aws-azure-login
 Connect to the cluster and view the namespaces:
 
 kubectl get namespaces
+
 NAME STATUS  AGE
+
 abc  ACTIVE  29d
 
 List all pods:
